@@ -7,7 +7,6 @@ recording
 !requirements.txt
 *.dat
 __pycache__
-*.png
 *.pyc
 roboschool-files
 .vscode
